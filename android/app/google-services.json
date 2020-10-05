@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "990733642668",
+    "firebase_url": "https://gramophone-1a67b.firebaseio.com",
+    "project_id": "gramophone-1a67b",
+    "storage_bucket": "gramophone-1a67b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990733642668:android:770d3043932a723743a809",
+        "android_client_info": {
+          "package_name": "com.navdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "990733642668-1s5qqfmvoui5sbpbcj8dckc9ph1l6cre.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7uYJvISOxkgyDGizfAL0rhengPiTx5sQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "990733642668-1s5qqfmvoui5sbpbcj8dckc9ph1l6cre.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
