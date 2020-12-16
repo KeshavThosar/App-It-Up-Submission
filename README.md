@@ -1,4 +1,4 @@
-# App-It-Up-Submission
+# Gramophone
 The source code for the app developed for App It Up 2020
 Problem Statement: Music Player App
 Solution: Gramophone
